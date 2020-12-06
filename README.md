@@ -1,4 +1,4 @@
-# ComputacaoGrafica-TransformacaoGeometricaUrso
+# ComputacaoGrafica_TransformacaoGeometricaUrso
 Atividade prática proposta na disciplina de Computação Gráfica - Uniritter - 2019/2
 
 IDE: DEV C++
